@@ -1,4 +1,4 @@
-import '_' from 'lodash';
+// import '_' from 'lodash';
 /// roll 4 d6, drop lowest, sum, then add to matrix (6x6)
 
 let d6Array = []
