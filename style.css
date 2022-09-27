@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  color: red;
+}
+
+table {
+  border: 2px solid #555;
+  border-collapse: collapse;
+  font: 16px "Lucida Grande", "Helvetica", "Arial", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+tbody {
+  color: black;
+}
+tbody,tr, td, table {
+  border: 1px solid black;
+}
+th,
+td {
+  border: 1px solid #bbb;
+  padding: 2px 8px 0;
+  text-align: left;
+}
+
+tr {
+  width: 50px;
+}
